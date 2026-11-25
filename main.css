@@ -1,0 +1,10 @@
+* {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+#photo {
+    position: relative;
+    width: 350px;
+    height: 450px;
+}
